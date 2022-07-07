@@ -1,0 +1,12 @@
+{
+  "name": "filtered",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "PimenovMatvey",
+  "license": "ISC",
+  "type": "module"
+}
